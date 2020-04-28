@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: c11aa950bf725014c835152d4fba0a29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 112460743556591167
+    second: Voador_0
+  - first:
+      213: 80989585159657528
+    second: Voador_1
+  - first:
+      213: -6116370364936411874
+    second: Voador_2
+  - first:
+      213: -4002989466200932503
+    second: Voador_3
+  - first:
+      213: 1475833653473956210
+    second: Voador_4
+  - first:
+      213: 6835785924052357256
+    second: Voador_5
+  - first:
+      213: 4933927800972503889
+    second: Voador_6
+  - first:
+      213: 7567640810885182788
+    second: Voador_7
+  - first:
+      213: 8629246452680779777
+    second: Voador_8
+  - first:
+      213: 877215114409587316
+    second: Voador_9
+  - first:
+      213: 7828200028444702272
+    second: Voador_10
+  - first:
+      213: -7976547964540677629
+    second: Voador_11
+  - first:
+      213: -1999947036706080837
+    second: Voador_12
+  - first:
+      213: 7364876312138440920
+    second: Voador_13
+  - first:
+      213: 6109947383863678732
+    second: Voador_14
+  - first:
+      213: -679321268661057023
+    second: Voador_15
+  - first:
+      213: 8740454189145294578
+    second: Voador_16
+  - first:
+      213: 1993062020274997612
+    second: Voador_17
+  - first:
+      213: 6431551034716572393
+    second: Voador_18
+  - first:
+      213: -4491127805434564478
+    second: Voador_19
+  - first:
+      213: 9206697665873204406
+    second: Voador_20
+  - first:
+      213: 7310038785428756002
+    second: Voador_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Voador_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 184
+        width: 55
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3a8a60ba3298043b3de9c39a1fc4d2
+      internalID: 112460743556591167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 184
+        width: 55
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4294cedc06dd4724a8278ba692628498
+      internalID: 80989585159657528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 185
+        width: 55
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b44e6db521e68d44a83fd1317ea9155
+      internalID: -6116370364936411874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 116
+        width: 52
+        height: 56
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135096a1a8bf25345a67bc0fe045663a
+      internalID: -4002989466200932503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 116
+        width: 54
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bc70bf20a57294fa7fe8e5d3b9b4d8
+      internalID: 1475833653473956210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 121
+        width: 54
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13d5c77b4dee8d4cb3a1a2aa026d470
+      internalID: 6835785924052357256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 119
+        width: 41
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6164e03d1534d148824c2c3e6476310
+      internalID: 4933927800972503889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 48
+        width: 40
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e6998b1fa56140880d8237e8beb06
+      internalID: 7567640810885182788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6666c15de96a34f96104c023a1333c
+      internalID: 8629246452680779777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 50
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d209a8aabf40f84dbf2873f59026609
+      internalID: 877215114409587316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b3259a4abb5c249a249f8561871a8d
+      internalID: 7828200028444702272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 83
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a41d9bc261f3c4298eebbe2ffff55e
+      internalID: -7976547964540677629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 78
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a07aafe375d9f4db9ac6251b9a15a6
+      internalID: -1999947036706080837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 67
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4257f34a10acabb488d5e4dbaa732020
+      internalID: 7364876312138440920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 62
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912fa7ac12f0d2f4baa005bda4c68216
+      internalID: 6109947383863678732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 53
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53f983eb2abf3041ad8222a751f19f5
+      internalID: -679321268661057023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2873f0b3adda41449903238711a9b77
+      internalID: 8740454189145294578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d8d7305acda648be11315aae264cf
+      internalID: 1993062020274997612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 12
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab045fbeb2b4eb44b9062a6f114c307
+      internalID: 6431551034716572393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 14
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addbc3fb6cdc23745ac6c5332ab392be
+      internalID: -4491127805434564478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 14
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907a12e3ff86c543b08a6e708b3286a
+      internalID: 9206697665873204406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voador_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 14
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef4a41f52a67834483ba9930b2704a4
+      internalID: 7310038785428756002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 52257dc32ad3c6344868f8c52823336d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

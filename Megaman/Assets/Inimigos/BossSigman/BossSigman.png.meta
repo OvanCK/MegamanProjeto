@@ -1,0 +1,2381 @@
+fileFormatVersion: 2
+guid: f0fab9519c3e8894991c785ffea2afd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8371102180536465161
+    second: BossSigman_0
+  - first:
+      213: -357014025632017973
+    second: BossSigman_1
+  - first:
+      213: -5800821727015544292
+    second: BossSigman_2
+  - first:
+      213: 4845826873343511809
+    second: BossSigman_3
+  - first:
+      213: 7012548036956591797
+    second: BossSigman_4
+  - first:
+      213: -3704152130782960701
+    second: BossSigman_5
+  - first:
+      213: 6657323143088132607
+    second: BossSigman_6
+  - first:
+      213: 1000633395471565581
+    second: BossSigman_7
+  - first:
+      213: -3760397460097983118
+    second: BossSigman_8
+  - first:
+      213: 7760225002986161429
+    second: BossSigman_9
+  - first:
+      213: 8185669255567963986
+    second: BossSigman_10
+  - first:
+      213: 3269803721457743996
+    second: BossSigman_11
+  - first:
+      213: 3211898031977198455
+    second: BossSigman_12
+  - first:
+      213: 3996830856504996574
+    second: BossSigman_13
+  - first:
+      213: -316361142701633798
+    second: BossSigman_14
+  - first:
+      213: 6229860870319384653
+    second: BossSigman_15
+  - first:
+      213: -5347871756499987463
+    second: BossSigman_16
+  - first:
+      213: -5146510648239655543
+    second: BossSigman_17
+  - first:
+      213: 4646463336034610793
+    second: BossSigman_18
+  - first:
+      213: 7085851666582001927
+    second: BossSigman_19
+  - first:
+      213: -8869746514253639736
+    second: BossSigman_20
+  - first:
+      213: -8267707783621018734
+    second: BossSigman_21
+  - first:
+      213: -2160721175796031280
+    second: BossSigman_22
+  - first:
+      213: 7458200690895048389
+    second: BossSigman_23
+  - first:
+      213: 1738399193326637883
+    second: BossSigman_24
+  - first:
+      213: 1511486907096383460
+    second: BossSigman_25
+  - first:
+      213: -8208490334594253247
+    second: BossSigman_26
+  - first:
+      213: -7733938290791452982
+    second: BossSigman_27
+  - first:
+      213: 2062387882293708747
+    second: BossSigman_28
+  - first:
+      213: -2476224966216878920
+    second: BossSigman_29
+  - first:
+      213: -1268399116435027380
+    second: BossSigman_30
+  - first:
+      213: -7843239096957836461
+    second: BossSigman_31
+  - first:
+      213: 5114306371448904834
+    second: BossSigman_32
+  - first:
+      213: 222122918586738663
+    second: BossSigman_33
+  - first:
+      213: 8289797841494270570
+    second: BossSigman_34
+  - first:
+      213: 4599812589158682614
+    second: BossSigman_35
+  - first:
+      213: 7406734925757752829
+    second: BossSigman_36
+  - first:
+      213: -76388409504008455
+    second: BossSigman_37
+  - first:
+      213: -6942924811132888384
+    second: BossSigman_38
+  - first:
+      213: -5670563072243915522
+    second: BossSigman_39
+  - first:
+      213: -5073922922151267607
+    second: BossSigman_40
+  - first:
+      213: 8810451174167746243
+    second: BossSigman_41
+  - first:
+      213: -1525029049100633200
+    second: BossSigman_42
+  - first:
+      213: 1291657900853883369
+    second: BossSigman_43
+  - first:
+      213: 8019397555835931952
+    second: BossSigman_44
+  - first:
+      213: 460120773637744277
+    second: BossSigman_45
+  - first:
+      213: -3224716463810486234
+    second: BossSigman_46
+  - first:
+      213: 3102410990856804241
+    second: BossSigman_47
+  - first:
+      213: 1871782147057879015
+    second: BossSigman_48
+  - first:
+      213: -4863410414730945476
+    second: BossSigman_49
+  - first:
+      213: 1738274977829997724
+    second: BossSigman_50
+  - first:
+      213: 2373171834355190543
+    second: BossSigman_51
+  - first:
+      213: -4005043074775288469
+    second: BossSigman_52
+  - first:
+      213: 1010333402939892440
+    second: BossSigman_53
+  - first:
+      213: 572997004643174179
+    second: BossSigman_54
+  - first:
+      213: 733997108907376728
+    second: BossSigman_55
+  - first:
+      213: -7920502631420763806
+    second: BossSigman_56
+  - first:
+      213: 1511422927532465875
+    second: BossSigman_57
+  - first:
+      213: -8957434640595904373
+    second: BossSigman_58
+  - first:
+      213: 8341601372900460305
+    second: BossSigman_59
+  - first:
+      213: 6658649940927594387
+    second: BossSigman_60
+  - first:
+      213: -1234050906924085978
+    second: BossSigman_61
+  - first:
+      213: -1147467790507815404
+    second: BossSigman_62
+  - first:
+      213: 6228772374100071383
+    second: BossSigman_63
+  - first:
+      213: 578677334135559347
+    second: BossSigman_64
+  - first:
+      213: 5149066243578139678
+    second: BossSigman_65
+  - first:
+      213: 418413497725680599
+    second: BossSigman_66
+  - first:
+      213: 2160950930547489771
+    second: BossSigman_67
+  - first:
+      213: -1270863424603656571
+    second: BossSigman_68
+  - first:
+      213: 4532489638531798167
+    second: BossSigman_69
+  - first:
+      213: 328742971317765806
+    second: BossSigman_70
+  - first:
+      213: 4773594489544065118
+    second: BossSigman_71
+  - first:
+      213: 6277696188931295859
+    second: BossSigman_72
+  - first:
+      213: 1233750204413450226
+    second: BossSigman_73
+  - first:
+      213: -6771259262698988991
+    second: BossSigman_74
+  - first:
+      213: -7338303276761718403
+    second: BossSigman_75
+  - first:
+      213: -5894480532341156745
+    second: BossSigman_76
+  - first:
+      213: -4482591990142035684
+    second: BossSigman_77
+  - first:
+      213: 7382649174469625153
+    second: BossSigman_78
+  - first:
+      213: -2432421330061581142
+    second: BossSigman_79
+  - first:
+      213: -9057051385233571746
+    second: BossSigman_80
+  - first:
+      213: 2388450156173458984
+    second: BossSigman_81
+  - first:
+      213: 8966787423573189124
+    second: BossSigman_82
+  - first:
+      213: 3198420759611994304
+    second: BossSigman_83
+  - first:
+      213: 2083480330853126542
+    second: BossSigman_84
+  - first:
+      213: 8449395778886400200
+    second: BossSigman_85
+  - first:
+      213: 7830102793239263544
+    second: BossSigman_86
+  - first:
+      213: -4245013912975282623
+    second: BossSigman_87
+  - first:
+      213: 4916306280507186219
+    second: BossSigman_88
+  - first:
+      213: 7953249124178909599
+    second: BossSigman_89
+  - first:
+      213: -545632463025167420
+    second: BossSigman_90
+  - first:
+      213: 967873301826940290
+    second: BossSigman_91
+  - first:
+      213: 3080342691840253164
+    second: BossSigman_92
+  - first:
+      213: -7308523166664974169
+    second: BossSigman_93
+  - first:
+      213: 3267378807238529813
+    second: BossSigman_94
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossSigman_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 288
+        width: 156
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca38a20df111ab48b5c870e57956641
+      internalID: -8371102180536465161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 292
+        width: 158
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82d5e60d8577d4eb1ddb028fbd0a23
+      internalID: -357014025632017973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 376
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8629320395e6d5841b25c3a79aba12c8
+      internalID: -5800821727015544292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 376
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4067956999fdb04684fb225396310df
+      internalID: 4845826873343511809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 376
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff8b277305794d4e8dffa4d48d9080f
+      internalID: 7012548036956591797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 294
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3220cb939067c42bda018c584cd726
+      internalID: -3704152130782960701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 294
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a189336c1c5cc74b9ad10c083e9eb15
+      internalID: 6657323143088132607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_7
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 294
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78079a6195ba7024ab064fffaf6f979e
+      internalID: 1000633395471565581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 258
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe788bfe8710c439ad498c63c12d92
+      internalID: -3760397460097983118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 263
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60e6aa7133bee84ea599858d395e651
+      internalID: 7760225002986161429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 262
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ed380663e80a49bfcdd0fbd15281f
+      internalID: 8185669255567963986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 262
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64628f6d120e7374697714636e3fad61
+      internalID: 3269803721457743996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 262
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa787f1395bd34e9dcbebd7f3240d3
+      internalID: 3211898031977198455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 262
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d6cfd637198243955be9b61f1bd6e
+      internalID: 3996830856504996574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 252
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014673de811c7a146b2a3d71acabc9f6
+      internalID: -316361142701633798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_15
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 253
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2604005ce51f4896be1219a7f03a9
+      internalID: 6229860870319384653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9becfcacc7aa0d4a94bc3bb158f6e41
+      internalID: -5347871756499987463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 255
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147dceb9094fcca449711c2055f92d34
+      internalID: -5146510648239655543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 265
+        width: 155
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c3c748b680c8e40ad5c97268dc7504
+      internalID: 4646463336034610793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 209
+        width: 155
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7724a2fe1c410dd46ba64b0a7b11f64d
+      internalID: 7085851666582001927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 201
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff2c52661f26e4ab24dc6f35bfa7ee
+      internalID: -8869746514253639736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 186
+        width: 155
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc2bff0c53b954088e00ce53a255ae
+      internalID: -8267707783621018734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 120
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a586e50f998b348a09f439aa90340f
+      internalID: -2160721175796031280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa9e7ca4090c9240ac05eadf46ce8bc
+      internalID: 7458200690895048389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 120
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063090e1652d6a34e943a9b7e21b2cb9
+      internalID: 1738399193326637883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 21
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d5a97634076f648abc9cbef3e588dd
+      internalID: 1511486907096383460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 21
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a2ee71be81bc94aa108ea326203716
+      internalID: -8208490334594253247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 23
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564d5b1f1787234eb8b5ea14ae4a9ef
+      internalID: -7733938290791452982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 21
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7379badd59eaf84194fc303198c862e
+      internalID: 2062387882293708747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 23
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfcdd0e941d2944bbd72063db4a583e
+      internalID: -2476224966216878920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b759bc7b3cb2f343b4e8c04607e173f
+      internalID: -1268399116435027380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d2808a094bb144af7c850ba41a9d7
+      internalID: -7843239096957836461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d827d8c220663f42b1656833cce8b96
+      internalID: 5114306371448904834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b7a1ca94773f446a8e1e0f56736ff8
+      internalID: 222122918586738663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04760de5f450978498a6a89192ac17b0
+      internalID: 8289797841494270570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23e758026759f34ebaf79be61417b84
+      internalID: 4599812589158682614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b208ce87ee0d3f74fa968be048ac9895
+      internalID: 7406734925757752829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e48c17665299114a9e2529f99eab49b
+      internalID: -76388409504008455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3675874f3da9954e9d259175ec919a0
+      internalID: -6942924811132888384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_39
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9f0bb2d0143a44bb35cfaa92e80d5
+      internalID: -5670563072243915522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 8
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c026e0920213ac4cadd54fa6bb12fa1
+      internalID: -5073922922151267607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_41
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb1c39dc3bcc51489009cb8976ca412
+      internalID: 8810451174167746243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3234f316931891a49a25037cc30f8df6
+      internalID: -1525029049100633200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b300d0c8968c84aa827aae2787dc5f
+      internalID: 1291657900853883369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd745e71496ff44ad59a84c8172459
+      internalID: 8019397555835931952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bdecdf59b865e41a8fcc4776f8845d
+      internalID: 460120773637744277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3ef88f0c83f8845b0b6a1d64d4007e
+      internalID: -3224716463810486234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834fbc6f06a7cdf468b0875e33df7a89
+      internalID: 3102410990856804241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3373b4be9359f644a16402f2f09647a
+      internalID: 1871782147057879015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd14aeb9a797224b83fef36e7d41f27
+      internalID: -4863410414730945476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_50
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b330661c2e4ebf44fa7de74265ad07c5
+      internalID: 1738274977829997724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056a21791f1a394fbd0be82819d8bfd
+      internalID: 2373171834355190543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee949f0dd29f54283658a9b5d0b445
+      internalID: -4005043074775288469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5536d42abca0f49b2daf81e691d242
+      internalID: 1010333402939892440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_54
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129242131b004774298fc22781a54638
+      internalID: 572997004643174179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5921ccf748139c4dbcfb5f6a943645e
+      internalID: 733997108907376728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_56
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0812c06a6c56134e93e0d3a212011d6
+      internalID: -7920502631420763806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 8
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7188f5cb792e58d4395f1f9da5661bde
+      internalID: 1511422927532465875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_58
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaba0ad6f0b61d45ac7c1bb33368faf
+      internalID: -8957434640595904373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_59
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6de55b37f092340b88d64107659f4d
+      internalID: 8341601372900460305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_60
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb95af148687ab4195a1fa0816fe0c3
+      internalID: 6658649940927594387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_61
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c89a73e7c566a4391249a89e07be18
+      internalID: -1234050906924085978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c904d0a283a4c944287d2f85f1750cae
+      internalID: -1147467790507815404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_63
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c04ba9f65a3be4a89630f9f53ae8b5
+      internalID: 6228772374100071383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_64
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c99895d53a1a4bb681421c5667e96
+      internalID: 578677334135559347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_65
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 8
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84a66be0111c5541b23f8ea938b1926
+      internalID: 5149066243578139678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_66
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 8
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19a411f7e6cbe40956317a59aa44a3
+      internalID: 418413497725680599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_67
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b0258fa21d8a846af9fc36a4a5c604
+      internalID: 2160950930547489771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9374b450e85e6e94691eb1b6e6e37af2
+      internalID: -1270863424603656571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_69
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b4beabab5884447b0489bfc6a3d48d
+      internalID: 4532489638531798167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_70
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 6
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b063f0aec5e38544abd72159af3f212f
+      internalID: 328742971317765806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_71
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8c9c0da33471b46827b8276a3885e0
+      internalID: 4773594489544065118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9238e0b048cf3f24eb3a6765b85cf4d5
+      internalID: 6277696188931295859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_73
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6829f79cd0e0444b84c849f0af187dd
+      internalID: 1233750204413450226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12509d507be12bc4f81e37f50b92f5fc
+      internalID: -6771259262698988991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbcc0805930b8e4fa5901875d0b3f92
+      internalID: -7338303276761718403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_76
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68484c82293b98943b6e9ab1a8393866
+      internalID: -5894480532341156745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_77
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf71b6d098001f74a98496a18f7c1575
+      internalID: -4482591990142035684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_78
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d1ad60e9b072c4ab39552a561da195
+      internalID: 7382649174469625153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_79
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b664c4eddd6b54fa7f99cf2ffe8b5e
+      internalID: -2432421330061581142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_80
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bddb5be5979eb4998d17115b6c4343
+      internalID: -9057051385233571746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_81
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642299f62ebe5804499d0826e3bf3165
+      internalID: 2388450156173458984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_82
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff1eab9fcffdd647b0ea99e2f4749d3
+      internalID: 8966787423573189124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_83
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b070a2eec757ad649a611ed69ef322b7
+      internalID: 3198420759611994304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_84
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f89ee49e2a9143ad09923c02f3e0f
+      internalID: 2083480330853126542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_85
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcac10cc352d8b478ae117559c06457
+      internalID: 8449395778886400200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_86
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b55f6293898a84cb55452a93dcf939
+      internalID: 7830102793239263544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_87
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d8a866c8eafb54482339c29f48a185
+      internalID: -4245013912975282623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_88
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177dd2154a1cbbf42b09428699c9d6d0
+      internalID: 4916306280507186219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_89
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c162b755ba5872d4e9e6ef251f997415
+      internalID: 7953249124178909599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_90
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa58a563456ecc046964ebc2cf5c312d
+      internalID: -545632463025167420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_91
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387b9dbacd5a0c5408d59c9f52e07820
+      internalID: 967873301826940290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_92
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0a86e212ac214fbc9905466ca0e02
+      internalID: 3080342691840253164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_93
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705a64a325462b14b80d6da426ac12c4
+      internalID: -7308523166664974169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossSigman_94
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872a5b98bfc5eda4d9426d861e76a2ae
+      internalID: 3267378807238529813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8ef62b8fdd8a1d845a422f7d88b032f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
